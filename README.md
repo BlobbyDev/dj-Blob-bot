@@ -25,6 +25,9 @@ YouTube URL
 
 >⏩ ?skip : To skip the currently playing music to next queued up music. 
 
+>🔁 ?loop : To repeat the queued up music again and again, to disable it type the 
+            command once more
+
 >🔊 ?volume : To change the volume between 0-100.
 
 >🔍 ?search : To 1st 10 results from YT so that you can select them.

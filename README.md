@@ -37,3 +37,5 @@ YouTube URL
 >💿 ?nowplaying : To check which song is playing now.
 
 𝙉𝙤𝙩𝙚 :- 𝙄𝙛 𝙩𝙝𝙚 𝙗𝙤𝙩 𝙜𝙚𝙩 𝙨𝙩𝙪𝙘𝙠 𝙥𝙡𝙚𝙖𝙨𝙚 𝙙𝙞𝙨𝙘𝙤𝙣𝙣𝙚𝙘𝙩 𝙩𝙝𝙚 𝙗𝙤𝙩 𝙢𝙖𝙣𝙪𝙖𝙡𝙡𝙮 !
+
+Invite Link: https://discord.com/api/oauth2/authorize?client_id=786209866946838528&permissions=36826432&scope=bot

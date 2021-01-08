@@ -1,10 +1,14 @@
 # DJ Blob 
-ℙ𝕝𝕒𝕪𝕚𝕟𝕘 𝕄𝕦𝕤𝕚𝕔:-
+
+A cool, simple and free music bot in which you listen music with your friends in discord
+
+
+## Playing Music
 
 DJ Blob can play from YouTube, or you can provide a direct YouTube link.
 
 
-ℙ𝕝𝕒𝕪 𝕥𝕪𝕡𝕖𝕤:-
+### Play Type
 
 YouTube Search
 
@@ -13,7 +17,7 @@ YouTube URL
 𝘋𝘑 𝘉𝘭𝘰𝘣 𝘸𝘪𝘭𝘭 𝘢𝘶𝘵𝘰𝘮𝘢𝘵𝘪𝘤𝘢𝘭𝘭𝘺 𝘥𝘦𝘵𝘦𝘤𝘵 𝘵𝘩𝘦 𝘵𝘺𝘱𝘦 𝘺𝘰𝘶 𝘸𝘢𝘯𝘵 𝘵𝘰 𝘶𝘴𝘦
 
 
-ℂ𝕠𝕞𝕞𝕒𝕟𝕕𝕤:-
+#### Commands
 
 >▶️ ?play or ?p: Plays music, you can use a file URL, YouTube URL, or song name/search query.
 
@@ -36,7 +40,4 @@ YouTube URL
 
 >💿 ?nowplaying : To check which song is playing now.
 
-𝙉𝙤𝙩𝙚 :- 𝙄𝙛 𝙩𝙝𝙚 𝙗𝙤𝙩 𝙜𝙚𝙩 𝙨𝙩𝙪𝙘𝙠 𝙥𝙡𝙚𝙖𝙨𝙚 𝙙𝙞𝙨𝙘𝙤𝙣𝙣𝙚𝙘𝙩 𝙩𝙝𝙚 𝙗𝙤𝙩 𝙢𝙖𝙣𝙪𝙖𝙡𝙡𝙮 !
-
-Invite Link: http://bit.ly/djblob-bot
-Support Server: https://discord.gg/RWSEj6JrjJ
+[Invite me to your server](https://discord.com/oauth2/authorize?client_id=786209866946838528&permissions=36732224&scope=bot) | [Vote for me](https://top.gg/bot/786209866946838528/vote) | [Join my discord server](https://discord.gg/RWSEj6JrjJ) 

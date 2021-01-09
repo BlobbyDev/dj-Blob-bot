@@ -41,3 +41,7 @@ YouTube URL
 >💿 ?nowplaying : To check which song is playing now.
 
 [Invite me to your server](https://discord.com/oauth2/authorize?client_id=786209866946838528&permissions=36732224&scope=bot) | [Vote for me](https://top.gg/bot/786209866946838528/vote) | [Join my discord server](https://discord.gg/RWSEj6JrjJ) 
+
+<a href="https://top.gg/bot/786209866946838528">
+    <img src="https://top.gg/api/widget/786209866946838528.svg" alt="DJ Blob" />
+</a>

@@ -21,8 +21,12 @@ Nightcore, Bassboost, Vaporwave, Normalizer, Treble, Flanger
 Help, Invite, Ping, Vote, Uptime, Botinfo
 
 ### 🔗 Useful Links
-[Invite Me](https://discord.com/oauth2/authorize?client_id=786209866946838528&permissions=53833024&scope=bot) | [Support Server](https://discord.gg/RWSEj6JrjJ) | [Vote](https://top.gg/bot/786209866946838528/vote)
+Add it to your discord server by [clicking here](https://discord.com/oauth2/authorize?client_id=786209866946838528&permissions=53833024&scope=bot)
 
-<a href="https://top.gg/bot/786209866946838528">
-    <img src="https://top.gg/api/widget/786209866946838528.svg" alt="DJ Blob" />
-</a> 
+Join the support server by [clicking here](https://discord.gg/RWSEj6JrjJ)
+
+Vote for it by [clicking here](https://top.gg/bot/786209866946838528)
+
+[![Discord Bots](https://top.gg/api/widget/status/786209866946838528.svg)](https://top.gg/bot/786209866946838528) [![Discord Bots](https://top.gg/api/widget/servers/786209866946838528.svg?noavatar=true)](https://top.gg/bot/786209866946838528) [![Discord Bots](https://top.gg/api/widget/upvotes/786209866946838528.svg?noavatar=true)](https://top.gg/bot/786209866946838528) [![Discord Bots](https://top.gg/api/widget/owner/786209866946838528.svg?noavatar=true)](https://top.gg/bot/786209866946838528)
+
+[![Discord Bots](https://top.gg/api/widget/786209866946838528.svg)](https://top.gg/bot/786209866946838528)

@@ -6,7 +6,9 @@ DJ Blob can play from YouTube, or you can provide a direct YouTube link and also
 
 ## Play Types:-
 YouTube Search
+
 YouTube URL
+
 𝘋𝘑 𝘉𝘭𝘰𝘣 𝘸𝘪𝘭𝘭 𝘢𝘶𝘵𝘰𝘮𝘢𝘵𝘪𝘤𝘢𝘭𝘭𝘺 𝘥𝘦𝘵𝘦𝘤𝘵 𝘵𝘩𝘦 𝘵𝘺𝘱𝘦 𝘺𝘰𝘶 𝘸𝘢𝘯𝘵 𝘵𝘰 𝘶𝘴𝘦
 
 ## Commands
